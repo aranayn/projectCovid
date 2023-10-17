@@ -1,0 +1,21 @@
+.country-select-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .globe-icon {
+    margin-right: 5px;
+  }
+  
+  .country-select {
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .down-icon {
+    margin-left: 5px;
+  }
+  
